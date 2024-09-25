@@ -1,4 +1,4 @@
 #python==3.12.5
 
 
--e . # editable mode
+# -e . # editable mode

@@ -23,7 +23,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    project_name = "College Student Project",
+    project_name = "Visa_Prediction_Project",
     version="0.0.1",
     author="Suhail Ahmed",
     author_email="rajpar.suhail.ahmed@gmail.com",
